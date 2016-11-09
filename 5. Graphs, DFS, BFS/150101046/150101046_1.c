@@ -54,7 +54,8 @@ void DFS(struct node* a, int n)
 }
 
 int main()
-{    const char ch ='r';
+{   
+    const char ch ='r';
     const char*p;
     p=&ch;
     FILE *fp;
